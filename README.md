@@ -46,3 +46,7 @@ I am a computer science and business student at Simon Fraser University.
 ### :hammer_and_wrench: Dev Tools :
 
 [![Dev Tools](https://skillicons.dev/icons?i=vscode,idea,bash,postman,github,gitlab,git,jenkins)](https://skillicons.dev)
+
+---
+
+![jrang188's Stats](https://github-readme-stats.vercel.app/api?username=jrang188&theme=tokyonight&show_icons=true&hide_border=false&count_private=true) ![jrang188's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jrang188&theme=tokyonight&hide_border=false)
