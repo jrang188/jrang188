@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @jrang188
-- 👀 I’m interested in Software Engineering and Information Systems
-- 🌱 I’m currently learning Web Development and Quantitative Trading
-- 💞️ I’m looking to collaborate on Web App and Machine Learning Projects
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDFmYmExNmRkN2RiMDczZGQwN2E4OWI3ZjI1YTVjYjJhNTg0NTc2OCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/13HgwGsXF0aiGY/giphy-downsized.gif" />
+</div>
 
-<!---
-jrang188/jrang188 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
