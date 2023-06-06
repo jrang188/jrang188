@@ -20,7 +20,7 @@
 I am a computer science and business student at Simon Fraser University.
 - 🔭  Currently looking for an internship/co-op in software development
 - 🌱  Learning more about cloud computing with AWS, Go, and Rust
-- 💬 Ask me about Vue, React, TypeScript, Node.js, Python, and C
+- 💬 Ask me about Vue, React, Node.js, Python, and C
 - ⚡ Fun fact: I am a huge pro wrestling fan and I learning card tricks
 - 📫 Feel free to reach me on [LinkedIn](https://www.linkedin.com/in/jrang188/)
 
