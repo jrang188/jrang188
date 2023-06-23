@@ -18,8 +18,8 @@
 </div>
 
 I am a computer science and business student at Simon Fraser University.
-- 🔭  Currently looking for an internship/co-op in software development
-- 🌱  Learning more about cloud computing with AWS, Go, and Rust
+- 🔭 Looking to work on full-stack AI projects
+- 🌱 Learning more about TypeScript, Go, Rust, and cloud computing with AWS
 - 💬 Ask me about Vue, React, Node.js, Python, and C
 - ⚡ Fun fact: I am a huge pro wrestling fan and I learning card tricks
 - 📫 Feel free to reach me on [LinkedIn](https://www.linkedin.com/in/jrang188/)
