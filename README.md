@@ -29,11 +29,11 @@ I am a computer science and business student at Simon Fraser University.
 
 ### :keyboard: Programming Languages :
 
-[![Programming Languages](https://skillicons.dev/icons?i=python,js,ts,java,c,cpp,bash,html,css,haskell,matlab)](https://skillicons.dev)
+[![Programming Languages](https://skillicons.dev/icons?i=python,js,ts,java,c,cpp)](https://skillicons.dev)
 
 ### :computer: Frameworks:
 
-[![Frameworks](https://skillicons.dev/icons?i=vue,react,nodejs,express,next,nuxt,tailwind,prisma,redux,spring,vite,wordpress)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=vue,react,nodejs,express,next,nuxt,tailwind,prisma,spring)](https://skillicons.dev)
 
 ### :electric_plug: Hosting Platforms: 
 
