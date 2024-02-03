@@ -19,7 +19,7 @@
 
 I am a computer science and business student at Simon Fraser University.
 - 🔭 Looking to work on full-stack AI projects
-- 🌱 Learning more about TypeScript, Go, Rust, and cloud computing with AWS
+- 🌱 Learning more about Go, Rust, and Azure
 - 💬 Ask me about Vue, React, Node.js, Python, and C
 - ⚡ Fun fact: I am a huge pro wrestling fan and I learning card tricks
 - 📫 Feel free to reach me on [LinkedIn](https://www.linkedin.com/in/jrang188/)
@@ -29,16 +29,14 @@ I am a computer science and business student at Simon Fraser University.
 
 ### :keyboard: Programming Languages :
 
-[![Programming Languages](https://skillicons.dev/icons?i=python,js,ts,java,c)](https://skillicons.dev)
+[![Programming Languages](https://skillicons.dev/icons?i=python,js,ts,java,c,terraform)](https://skillicons.dev)
 
 ### :computer: Frameworks:
 
 [![Frameworks](https://skillicons.dev/icons?i=vue,react,nodejs,express,next,nuxt,tailwind,prisma,spring)](https://skillicons.dev)
 
-
 ### :hammer_and_wrench: Dev Tools :
-
-[![Dev Tools](https://skillicons.dev/icons?i=vscode,idea,bash,postman,github,gitlab,git,jenkins)](https://skillicons.dev)
+[![Dev Tools](https://skillicons.dev/icons?i=bash,postman,github,git,jenkins,aws,gcp,azure,kubernetes,docker)](https://skillicons.dev)
 
 ---
 
