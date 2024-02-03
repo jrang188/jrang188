@@ -29,19 +29,12 @@ I am a computer science and business student at Simon Fraser University.
 
 ### :keyboard: Programming Languages :
 
-[![Programming Languages](https://skillicons.dev/icons?i=python,js,ts,java,c,cpp)](https://skillicons.dev)
+[![Programming Languages](https://skillicons.dev/icons?i=python,js,ts,java,c)](https://skillicons.dev)
 
 ### :computer: Frameworks:
 
 [![Frameworks](https://skillicons.dev/icons?i=vue,react,nodejs,express,next,nuxt,tailwind,prisma,spring)](https://skillicons.dev)
 
-### :electric_plug: Hosting Platforms: 
-
-[![Hosting Platforms](https://skillicons.dev/icons?i=aws,gcp,firebase,vercel,heroku)](https://skillicons.dev)
-
-### :cd: Databases : 
-
-[![Databases](https://skillicons.dev/icons?i=postgresql,mysql,sqlite,mongodb,planetscale,cockcroachdb)](https://skillicons.dev)
 
 ### :hammer_and_wrench: Dev Tools :
 
